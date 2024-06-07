@@ -10,6 +10,7 @@ To explore the model in detail, visit the Colab notebook [here](https://colab.re
 
 - [Overview](#overview)
 - [Dataset](#dataset)
+- [Technologies](#technologies)
 - [Preprocessing](#preprocessing)
 - [Models](#models)
 - [Results](#results)
@@ -17,6 +18,15 @@ To explore the model in detail, visit the Colab notebook [here](https://colab.re
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Technologies
+- **Python** programming language
+- **Jupyter Notebook** for interactive development
+- **Pandas and NumPy** for data manipulation
+- **Scikit-Learn** for machine learning modeling
+- **TensorFlow and Keras** for building neural networks
+- **Google Colab** for running the notebook collaboratively
+- **GitHub** for version control and collaboration
 
 ## Dataset
 

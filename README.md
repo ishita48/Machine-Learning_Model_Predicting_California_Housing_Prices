@@ -107,7 +107,7 @@ To run this project, you need to have Python installed along with the following 
     - Place the dataset in the data directory.
 3. Run Jupyter Notebook
 
-** can install the required libraries using pip**:
+**can install the required libraries using pip**:
 
 ```bash
 pip install pandas numpy scikit-learn tensorflow keras

@@ -66,11 +66,13 @@ A more complex network with a greater number of hidden layers and neurons. Capab
 
 ## Results
 
-The models were evaluated based on their performance on the validation and test sets using metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE). The ensemble model, Gradient Boosting Regressor (GBR), demonstrated promising performance with a mean squared error (MSE) of approximately 49,324.05 when evaluated on the test set. This indicates that, on average, the model's predictions deviated by approximately $49,324.05 from the actual house prices.
+Through this data science project, we tackled the challenge of **predicting housing prices in California** using machine learning techniques. By leveraging a dataset containing various features such as ***location, housing characteristics, and demographic information,*** we aimed to develop models capable of accurately estimating median house values.
 
-Additionally, we explored the predictive capabilities of a feed-forward neural network (NNM, MNM, LNM) which, while not as accurate as the GBR model, provided valuable insights into the complexity of the housing price prediction task.
+The ensemble model, **Gradient Boosting Regressor (GBR)**, demonstrated promising performance with a mean squared error (MSE) of approximately **49,324.05** when evaluated on the test set. This indicates that, on average, **the model's predictions deviated by approximately $49,324.05 from the actual house prices**.
 
-Overall, this project addresses a real-world problem in the housing market by providing insights into factors influencing housing prices and delivering predictive models to assist stakeholders in making informed decisions.
+Additionally, we explored the predictive capabilities of a feed-forward **neural network (NNM, MNM, LNM)** which, while not as accurate as the GBR model, provided valuable insights into the complexity of the housing price prediction task.
+
+Overall, this project **addresses a real-world problem in the housing market by providing insights into factors influencing housing prices and delivering predictive models to assist stakeholders in making informed decisions**.
 
 Moving forward, further refinement of the models and exploration of additional features could potentially enhance prediction accuracy and contribute to more robust decision-making processes in the real estate industry.
 
